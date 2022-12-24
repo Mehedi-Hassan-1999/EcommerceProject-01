@@ -1,0 +1,11 @@
+{
+    "material design icons": {
+        "normal": "material_design_icons_normal_b0f01599038981c13a834234bbefc542"
+    },
+    "rubik": {
+        "300": "C:\\xampp\\htdocs\\Laravel\\HomeWork\\4th Project\\Ecommerce\\storage\\fonts\/rubik_300_bdc3a402538312391c5b870a99c021b8",
+        "normal": "C:\\xampp\\htdocs\\Laravel\\HomeWork\\4th Project\\Ecommerce\\storage\\fonts\/rubik_normal_7847180ff3a458d7ec9569c8b0621589",
+        "500": "C:\\xampp\\htdocs\\Laravel\\HomeWork\\4th Project\\Ecommerce\\storage\\fonts\/rubik_500_ce7b8dd30d2b2b9a3c383aeb93785563",
+        "bold": "rubik_bold_acc375f88b4317549fb0013ac9122f77"
+    }
+}
